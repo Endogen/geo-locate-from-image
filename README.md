@@ -1,7 +1,3 @@
-Here’s the updated `README.md` with proper credit to the original article:
-
----
-
 ## 📍 geo-locate-from-image
 
 A simple command-line Python tool to extract GPS coordinates from image metadata (EXIF) and plot them on an interactive map using [Folium](https://python-visualization.github.io/folium/).
